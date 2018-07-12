@@ -1,3 +1,7 @@
 first file
 modified 1
+<<<<<<< HEAD
 mmmm
+=======
+modified 2
+>>>>>>> firstbranch
